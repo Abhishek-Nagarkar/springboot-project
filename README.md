@@ -6,8 +6,11 @@ For paragraphs simply leave a line before and after text
 This is a paragraph just like above line
 
 To make text bold use two asterisk and for italic use one asterisk before and after the text
+
 **bold text** and *italic text*
+
 For blockquotes use greater than symbol
+
 > Blockquotes example
 
 For ordered List use numbers followed by dot
@@ -25,6 +28,7 @@ For unordered list use hyphens
   -  four
 
 To create code blocks use 4 space or a tab
+
     import java.util
     class Main {
         public static void main(String[] args){
