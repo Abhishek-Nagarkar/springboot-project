@@ -1,7 +1,8 @@
 MARKDOWN TUTORIAL
 For heading use Hashtag
 # Heading 1
-For paragraphs simply leave a line after text
+For paragraphs simply leave a line before and after text
+
 This is a paragraph just like above line
 
 To make text bold use two asterisk and for italic use one asterisk before and after the text
